@@ -20,6 +20,7 @@ I didn't mark the verses; I explored the poeticism of the pauses.
 Here's a quotation from it, if you're curious:
 
 والحمد من الله الواحد لا تلتمسون
+
 Which translates:
 And praise (is) from G-d, the One -- untouchable (by y'all).
 
