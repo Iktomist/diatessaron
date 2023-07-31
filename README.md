@@ -26,8 +26,10 @@ And praise (is) from G-d, the One -- untouchable (by y'all).
 
 See, there's just no way to render it in English... It just doesn't feel translatable. Sorry, Tatian.
 
+The King James Bible doesn't even understand a construction in which praise is a noun actually owned by G-d.
+
 Coupled with the hypnotic rhythms of the pauses, it's my favorite way to dip in to the Gospel.
 
-I'd memorize it, for sure. I'm sure my oration in any language would improve.
+I'd memorize it, for sure. I'm sure my oration in any language would improve. It's very clear from the pauses that this version of the gospels was primarily seen as a read-aloud book for Church services.
 
 But don't try that at home -- the printed copy I worked from is not very good. At least wait until this repo is archived, someday, and my dual-language text+translation has been typeset.
