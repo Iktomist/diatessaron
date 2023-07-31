@@ -6,3 +6,5 @@ Was hoping to find some juicy Gnostic bits but, don't get your hopes up, the thi
 But it definitely feels like the oldest writing I've ever spent a long time with.
 
 Curious what AI makes of it: the register is very hard to match in up-to-date English.
+
+The original Syriac comes through really well, even if Tatian's version seems lost to time.
