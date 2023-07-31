@@ -32,4 +32,4 @@ Coupled with the hypnotic rhythms of the pauses, it's my favorite way to dip in 
 
 I'd memorize it, for sure. I'm sure my oration in any language would improve. It's very clear from the pauses that this version of the gospels was primarily seen as a read-aloud book for Church services.
 
-But don't try that at home -- the printed copy I worked from is not very good. At least wait until this repo is archived, someday, and my dual-language text+translation has been typeset.
+But don't try that at home -- the printed copy I worked from is not very good. At least wait until this repo is archived, someday, and my dual-language text+translation has been typeset and fully corrected.
