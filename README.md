@@ -14,3 +14,19 @@ I think that's what gave me the patience to keep typing this thing out. (OCR wou
 Like I said, it just feels so old; getting a glimpse of the mindset of people back then through the language is truly interesting.
 
 I do, however, wish Sei Shonagon had written it.
+
+I didn't mark the verses; I explored the poeticism of the pauses.
+
+Here's a quotation from it, if you're curious:
+
+والحمد من الله الواحد لا تلتمسون
+Which translates:
+And praise (is) from G-d, the One -- untouchable (by y'all).
+
+See, there's just no way to render it in English... It just doesn't feel translatable. Sorry, Tatian.
+
+Coupled with the hypnotic rhythms of the pauses, it's my favorite way to dip in to the Gospel.
+
+I'd memorize it, for sure. I'm sure my oration in any language would improve.
+
+But don't try that at home -- the printed copy I worked from is not very good. At least wait until this repo is archived, someday, and my dual-language text+translation has been typeset.
