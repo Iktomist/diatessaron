@@ -17,7 +17,7 @@ I do, however, wish Sei Shonagon had written it.
 
 I didn't mark the verses; I explored the poeticism of the pauses.
 
-Here's a quotation from it, if you're curious:
+Here's a sample translation of a quotation from manu.txt:
 
 والحمد من الله الواحد لا تلتمسون
 
