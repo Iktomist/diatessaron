@@ -22,7 +22,9 @@ Here's some sample translating of a few quotations from manu.txt:
 والحمد من الله الواحد لا تلتمسون
 
 
+
 Which translates:
+
 And praise (is) from G-d, the One -- unsought (by y'all).
 
 Or how about:
@@ -30,6 +32,7 @@ Or how about:
 
 
 Which translates:
+
 Is not the one who made the Outer the one who made the Inner?
 
 Coupled with the hypnotic rhythms of the pauses, it's my favorite way to dip in to the Gospel.
