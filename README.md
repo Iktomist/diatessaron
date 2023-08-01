@@ -66,11 +66,11 @@ Or this one, the last line I've translated as of today (August 1st, 2023):
 
 السلام لك ايتها المملوة من النعمة سيدنا معك ايتها المباركة في النساء
 
-Which I've translated in the whimsically-named en_tran.ce as:
+Which I've translated as well as I can to be:
 
 Peace be upon You, one so full of Grace; be with You, our Lady -- so blessed be among women.
 
-...which is literally the only way I could find to translate 100% of the words and nuances of the Arabic.
+...which is literally the only way I could find to translate 100% of the words and nuances.
 
 Coupled with the hypnotic rhythms of the pauses, it's my favorite way to dip in to the Gospel. We must assume that those nuances go back to the original Aramaic sources for the New Testament that are now lost.
 
