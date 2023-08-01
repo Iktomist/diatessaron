@@ -17,19 +17,21 @@ I do, however, wish Sei Shonagon had written it.
 
 I didn't mark the verses; I explored the poeticism of the pauses.
 
-Here's a sample translation of a quotation from manu.txt:
+Here's some sample translating of a few quotations from manu.txt:
 
 والحمد من الله الواحد لا تلتمسون
 
 Which translates:
-And praise (is) from G-d, the One -- untouchable (by y'all).
+And praise (is) from G-d, the One -- unsought (by y'all).
 
-See, there's just no way to render it in English... It just doesn't feel translatable. Sorry, Tatian.
+Or how about:
+اليس من صنع الخارج هو صنع الداخل
 
-The King James Bible doesn't even understand a construction in which praise is a noun actually owned by G-d.
+Which translates:
+Is not the one who made the Exterior the one who made the Interior?
 
 Coupled with the hypnotic rhythms of the pauses, it's my favorite way to dip in to the Gospel.
 
-I'd memorize it, for sure. I'm sure my oration in any language would improve. It's very clear from the pauses that this version of the gospels was primarily seen as a read-aloud book for Church services.
+I'd memorize it, for sure. I'm sure my oration in any language would improve. It's very clear from the pauses that this version of the gospels was primarily seen as a read-aloud book for church services, otherwise knows as a lectionary.
 
-But don't try that at home -- the printed copy I worked from is not very good. At least wait until this repo is archived, someday, and my dual-language text+translation has been typeset and fully corrected.
+But don't try that at home -- the printed copy I worked from is not very good. I'll be making at least two or three different error checks as I typeset this book. At least wait until this repo is archived, someday, and my dual-language text+translation has been typeset and fully corrected.
