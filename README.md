@@ -44,4 +44,10 @@ Did not the one who made the Outer make the Interior?
 
 Coupled with the hypnotic rhythms of the pauses, it's my favorite way to dip in to the Gospel.
 
-But don't try that at home -- the printed copy I worked from is not very good. I'll be making at least two or three different error checks as I typeset this book. At least wait until this repo is archived, someday, and my dual-language text+translation has been typeset and fully corrected.
+But don't try teaching yourself one of the most difficult non-programming languages in the world just so you can read it and memorize it just yet.
+
+There's no need to drop everything you're doing and just study this magical arrangement of 29 letters on a page.
+
+The printed(ish) copy I worked from is not very good. I'll be making at least two or three different error checks as I typeset this book. At least wait until this repo is archived, someday, and my dual-language text+translation has been typeset and fully corrected.
+
+Once I reach that stage, just for pure cheesy-Ness factor, I'm tempted to divide the work into 5 parts, the way Joyce divided Finnegans Wake attempting to square the Viconian circle.
