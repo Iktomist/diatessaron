@@ -28,6 +28,9 @@ Which translates:
 And praise (is) from G-d, the One -- unsought (by y'all).
 
 Or how about:
+
+
+
 اليس من صنع الخارج هو صنع الداخل
 
 
