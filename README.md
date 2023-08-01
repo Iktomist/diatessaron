@@ -3,9 +3,9 @@ Ongoing translating/typesetting of a book once-burned from the swinging 160s!
 
 Are you a Bible or theology nerd? Go ahead and fork this!
 
-Do you just need some examples of Arabic typesetting in TeX? Stay tuned.
+Do you just need some examples of dual-language typesetting in TeX? Stay tuned.
 
-Do you love studying Arabic archaisms? You should take a look at this.
+Do you love studying Afro-Asiastic archaisms? You should take a look at this.
 
 Was hoping to find some juicy Gnostic bits but, don't get your hopes up, the thing actually 'bytes... The big J uses some swear words, big deal! I guess that's why it was once collected and burned?
 
@@ -29,15 +29,19 @@ Sei Shonagon also would have written a more-easily-translated, equally-entrancin
 
 So if I in the future derive any works from this document, it will be in that more playful direction of thought.
 
-As for what's contained here in manu.txt, think about the history behind it: written in the 160s from allegedly purely Aramaic sources, redacted according to later censors, but translated into Arabic still retains differences and the flavor of the original Aramaic that purports to be from 2000 years ago. Even in the multi-layered censored state it's in, the original sources, including long-lost gospels like Q, still shine through.
+As for what's contained here in manu.txt, think about the history behind it: written in the 160s from allegedly purely Aramaic sources, redacted according to later censors, but still retains differences and the flavor of the original language from 2000 years ago. Even in the multi-layered censored state it's in, the original sources, including long-lost gospel sources like Q, still shine through.
 
-And so I hope Biblical scholars and archaeologists will take this document seriously. But also, possibly, poets? 
+And so I hope Biblical scholars and archaeologists will take this document seriously. But also, possibly, poets? There have been times transcribing this document that I really felt like I was there in Galilee, or at least remembering it from some journey.
 
-I'd memorize it, for sure. I'm sure my oration in any language would improve. It's very clear from the pauses that this version of the gospels was primarily seen as a read-aloud book for church services, otherwise knows as a lectionary.
+And yet there were other times working with this text when I could feel the weight of censorship from the difficult millenium-or-so (160-1060) it took to assume the form it's in here.
+
+There is a certain perfection to this text. It's very clear from the pauses that this version of the gospels was primarily seen as a read-aloud book for church services, otherwise knows as a lectionary.
+
+Being used as a lectionary for 1000 years, even if that subjected it to immense theological pressure, was good for it. And I'd memorize it, for sure. I'm sure my oration in any of the languages I'm using would improve. 
 
 I'm pretty sure it was meant to be read according to a yearly cycle, probably the same yearly cycle used to read the Carshun.
 
-I didn't mark the verses; I explored the poeticism of the pauses, such as:
+I didn't mark the verses; I explored the sonic poeticism of the pauses, such as:
 
 والحمد من الله الواحد لا تلتمسون
 
